@@ -1,9 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Text.Json.Serialization;
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
+//using System.Text.Json.Serialization;
 
 namespace RateLimitApp
 {
@@ -13,7 +13,6 @@ namespace RateLimitApp
         public class res
         {
             public cores core { get; set; }
-
             public class cores 
             {
                 public double limit { get; set; }
