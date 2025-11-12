@@ -1,3 +1,2 @@
 This is a simple text file called nayana.
 Hello World
-Hello World
